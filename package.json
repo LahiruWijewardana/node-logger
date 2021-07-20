@@ -2,14 +2,25 @@
   "name": "node-logger",
   "version": "1.0.0",
   "description": "Java like logger for NodeJS",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
-    "test": "npm test"
+    "start": "nodemon ./lib/index.js",
+    "test": "mocha test/index.test.js"
   },
   "keywords": [
     "logger",
-    "log"
+    "log",
+    "npm",
+    "package"
   ],
   "author": "Lahiru Wijewardana",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^9.0.2",
+    "nodemon": "^2.0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LahiruWijewardana/node-logger.git"
+  }
 }
