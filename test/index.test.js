@@ -1,7 +1,5 @@
 const Path = require('path');
-const CustomLog = require('../lib/index');
-
-const LOGGER = new CustomLog.Customlog(Path.basename(__filename));
+const LOGGER = require('../lib/index');
 
 describe('Logger Test', async () => {
   it('Should print INFO log', async () => {
