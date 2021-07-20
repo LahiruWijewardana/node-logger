@@ -1,0 +1,15 @@
+{
+  "name": "node-logger",
+  "version": "1.0.0",
+  "description": "Java like logger for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "logger",
+    "log"
+  ],
+  "author": "Lahiru Wijewardana",
+  "license": "MIT"
+}
