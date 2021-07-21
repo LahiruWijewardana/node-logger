@@ -1,4 +1,4 @@
-Node Logger
+Kolvin Node Logger
 ==============
 
 NodeJS logger similar to Java log. This provide you the time, file name, line number and the logging message. There are five types of logs.
@@ -7,6 +7,7 @@ NodeJS logger similar to Java log. This provide you the time, file name, line nu
 * WARN
 * ERROR
 * TRACE LOG
+
 Each log will display in separate colors to identify easy in the console log.
 -------------
 
