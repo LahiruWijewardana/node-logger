@@ -8,7 +8,7 @@ NodeJS logger similar to Java log. This provide you the time, file name, line nu
 * ERROR
 * TRACE LOG
 
-Each log will display in separate colors to identify easy in the console log.
+Each log will display in separate colors to identify easily in the console log.
 
 -------------
 
