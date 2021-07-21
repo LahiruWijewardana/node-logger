@@ -11,12 +11,12 @@ Each log will display in separate colors to identify easy in the console log.
 -------------
 
 ## Installation
-    $ npm install node-logger
+    $ npm install kolvin-node-logger
 
 ## Usage
 Each log type has it's own method. You need to call right method to log the message in the write way. Check the example below.
 ```js
-    import LOGGER from 'node-logger';
+    import LOGGER from 'kolvin-node-logger';
 
     LOGGER.info('This is a INFO log');
 
