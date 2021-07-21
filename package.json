@@ -12,7 +12,8 @@
     "log",
     "npm",
     "package",
-    "node"
+    "node",
+    "kolvin"
   ],
   "author": "Lahiru Wijewardana",
   "license": "MIT",
