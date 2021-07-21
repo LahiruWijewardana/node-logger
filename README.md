@@ -10,6 +10,12 @@ NodeJS logger similar to Java log. This provide you the time, file name, line nu
 
 Each log will display in separate colors to identify easily in the console log.
 
+```js
+    Example INFO log
+
+    2021-07-21T06:41:12.898Z INFO index.js:31 - This is a INFO log
+```
+
 -------------
 
 ## Installation
