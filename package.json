@@ -1,6 +1,6 @@
 {
   "name": "kolvin-node-logger",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Java like logger for NodeJS",
   "main": "./lib/index.js",
   "scripts": {
