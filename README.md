@@ -9,6 +9,7 @@ NodeJS logger similar to Java log. This provide you the time, file name, line nu
 * TRACE LOG
 
 Each log will display in separate colors to identify easy in the console log.
+
 -------------
 
 ## Installation
