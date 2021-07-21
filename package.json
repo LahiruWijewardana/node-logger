@@ -1,6 +1,6 @@
 {
   "name": "node-logger",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Java like logger for NodeJS",
   "main": "./lib/index.js",
   "scripts": {
